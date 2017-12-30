@@ -8,4 +8,4 @@ As the result you could see your set itself and lists(organised in columns) with
 
 Instructions:
 At first you'll see a short text how to use the program.
-Then you have to enter the last number of a set range('n') and you'll get the result of the execution of this program.w
+Then you have to enter the last number of a set range('n') and you'll get the result of the execution of this program.
