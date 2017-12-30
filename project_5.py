@@ -1,5 +1,5 @@
 import sys
-print("        DISCRETHE MATH. PROJECT №5. HAYDA A. LEBYAK O. HRYTSIV T.")
+print("        DISCRETE MATH. PROJECT №5. HAYDA A. LEBYAK O. HRYTSIV T.")
 print("                               TASK:")
 print("   Build all lexicographic permutations with numbers in ",
       "set {1,2,3...,n}")
